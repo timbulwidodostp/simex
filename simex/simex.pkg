@@ -1,4 +1,14 @@
-D 'DEA': Data envelopment analysis
+D 'simex': Simulation extrapolation (Simex) Use simex With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _crcdeq.ado
+F _qvferr.ado
+F qvf.ado
+F qvf.hlp
+F qvfmex.plugin
+F rcal.ado
+F rcal.hlp
+F simex.ado
+F simex.hlp
+F simexplot.ado
+F simexplot.hlp
+F simexploti.ado
