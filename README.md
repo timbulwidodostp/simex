@@ -1,6 +1,8 @@
 # simex
 Simulation extrapolation (Simex) Use simex With STATA 19
 
+https://www.youtube.com/watch?v=QTQjo73aqD4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
